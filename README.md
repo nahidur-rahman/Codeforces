@@ -1,8 +1,8 @@
 # Codeforces
-####Codeforces Problems' Solutions
+### Codeforces Problems' Solutions
 
 This repository contains the solutions to [Codeforces](https://codeforces.com) contests' problems.
-The problems can be found at https://codeforces.com/problemset
+The problems can be found at https://codeforces.com/problemset .
 
 
 This repository is personal, made public in the hope that someone may find it useful, but:
